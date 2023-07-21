@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react(), tailwind()],
-  site: 'https://PMReadyOfficial.github.io',
+  site: 'https://lem0n4id.github.io',
   base: '/FDA-DS/',
 });
